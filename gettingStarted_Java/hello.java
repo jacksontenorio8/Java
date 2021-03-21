@@ -1,4 +1,4 @@
-// Temos um método principal (main) que está dentro de uma classe (public class hello) que faz parte de um pacote.
+/* Temos um método principal (main) que está dentro de uma Classe (public class hello) que faz parte de um pacote. Classes são compostas de métodos. E Pacotes são formados por um conjunto de Classes.*/
 
 public class hello {
     public static void main(String[] args) {
