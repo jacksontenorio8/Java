@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IdiomaDoSistema",
+            "request": "launch",
+            "mainClass": "IdiomaDoSistema",
+            "projectName": "Java_e3c0f834"
+        },
+        {
+            "type": "java",
             "name": "Launch HoraDoSistema",
             "request": "launch",
             "mainClass": "HoraDoSistema",
