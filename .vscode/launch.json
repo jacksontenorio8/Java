@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SpringVscodeApplication",
+            "request": "launch",
+            "mainClass": "com.jacksontenorio8.springvscode.SpringVscodeApplication",
+            "projectName": "spring-vscode"
+        },
+        {
+            "type": "java",
             "name": "Launch IdiomaDoSistema",
             "request": "launch",
             "mainClass": "IdiomaDoSistema",
