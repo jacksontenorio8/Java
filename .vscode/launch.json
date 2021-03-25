@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch programa",
+            "request": "launch",
+            "mainClass": "programa",
+            "projectName": "carateristicas-da-linguagem"
+        },
+        {
+            "type": "java",
             "name": "Launch SpringVscodeApplication",
             "request": "launch",
             "mainClass": "com.jacksontenorio8.springvscode.SpringVscodeApplication",
