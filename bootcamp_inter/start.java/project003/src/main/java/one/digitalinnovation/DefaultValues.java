@@ -1,4 +1,4 @@
-package one.digitalinnovation.tipos.primitivos;
+package one.digitalinnovation;
 
 public class DefaultValues {
 	
