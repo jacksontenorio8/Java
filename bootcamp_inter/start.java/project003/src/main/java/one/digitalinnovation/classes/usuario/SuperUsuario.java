@@ -1,4 +1,5 @@
 public class SuperUsuario {
+	
 	private String login;
 	private String senha;
 	String nome;
