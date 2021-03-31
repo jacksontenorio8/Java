@@ -4,9 +4,11 @@ import java.awt.Toolkit;
 
 public class ResolucaoDoSistema {
     public static void main(String[] args){
+        
         Dimension tela = Toolkit.getDefaultToolkit().getScreenSize();
         int lar = (int) tela.getWidth();
         int alt = (int) tela.getHeight();
+        
         System.out.println("Your screen has resolution " + lar + " x " +alt);
     }
 }
