@@ -10,6 +10,8 @@ public class Programa {
 		
 		System.out.println(pitbull.zoologia);
 		System.out.println(viraLatas.zoologia);
+		
+		Cachorro.late();
 	}
 	
 }
