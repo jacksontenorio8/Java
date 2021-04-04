@@ -11,7 +11,7 @@ public class Strings {
         System.out.println(nome);
         System.out.println("Nome do cliente : " + nome);
         System.out.println("Nome completo do cliente : " + nomeCompleto);
-        var string = new String(" Minha String");
+        var string = new String(" Minha String ");
 
         System.out.println("Char na posição : " + string.charAt(5));
         System.out.println("Quantidade = " + string.length());
@@ -19,10 +19,10 @@ public class Strings {
         System.out.println("Com Trim [" + string.trim() + "]");
         System.out.println("Lower " + string.toLowerCase());
         System.out.println("Upper " + string.toUpperCase());
-        System.out.println("Contém J? " + string.contains("J"));
-        System.out.println("Contém Y? " + string.contains("X"));
+        System.out.println("Contém S? " + string.contains("S"));
+        System.out.println("Contém U? " + string.contains("U"));
         System.out.println("Replace " + string.replace("a", "$"));
-        System.out.println("Equals? " + string.equals(" Minha String"));
+        System.out.println("Equals? " + string.equals(" Minha String "));
         System.out.println("EqualsIgnoreCase? " + string.equalsIgnoreCase(" minha sTrinG "));
         System.out.println("Substring(1,6) = " + string.substring(1, 6));
 
