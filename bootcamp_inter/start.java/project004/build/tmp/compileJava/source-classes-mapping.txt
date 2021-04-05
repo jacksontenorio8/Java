@@ -1,2 +1,4 @@
 string/Strings.java
  string.Strings
+string/StringFormat.java
+ string.StringFormat
