@@ -2,3 +2,5 @@ string/Strings.java
  string.Strings
 string/StringFormat.java
  string.StringFormat
+string/BuilderDeString.java
+ string.BuilderDeString
