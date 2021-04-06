@@ -14,3 +14,5 @@ operadores/Matematicos.java
  operadores.Matematicos
 operadores/Relacionais.java
  operadores.Relacionais
+operadores/Logicos.java
+ operadores.Logicos

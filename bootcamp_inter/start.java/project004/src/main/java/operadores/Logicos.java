@@ -21,10 +21,19 @@ public class Logicos {
         }
 
         //Non Sort Circuit
-        /*if (verifica(15) | verifica("A")) {
+        if (verifica(15) | verifica("A")) {
             System.out.println("OK");
             } else {
                 System.out.println("Não OK");
-            }*/
+            }
+    }
+    private static boolean verifica(String letra) {
+        System.out.println("Verifcando letra...");
+        return letra.equals("A");
+    }
+
+    private static boolean verifica(Integer numero) {
+        System.out.println("verificando numero...");
+        return numero > 10;
     }
 }
