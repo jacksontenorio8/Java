@@ -18,3 +18,9 @@ operadores/Logicos.java
  operadores.Logicos
 operadores/Incremento.java
  operadores.Incremento
+fors/For.java
+ fors.For
+whiles/While.java
+ whiles.While
+exercícios/lambdas.java
+ exercÃcios.lambdas
