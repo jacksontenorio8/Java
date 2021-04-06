@@ -12,3 +12,5 @@ operadores/Igualdade.java
  operadores.Igualdade
 operadores/Matematicos.java
  operadores.Matematicos
+operadores/Relacionais.java
+ operadores.Relacionais
