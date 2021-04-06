@@ -16,3 +16,5 @@ operadores/Relacionais.java
  operadores.Relacionais
 operadores/Logicos.java
  operadores.Logicos
+operadores/Incremento.java
+ operadores.Incremento
