@@ -8,3 +8,7 @@ exercícios/ExercicioFinal.java
  exercÃcios.ExercicioFinal
 ifs/IF.java
  ifs.IF
+operadores/Igualdade.java
+ operadores.Igualdade
+operadores/Matematicos.java
+ operadores.Matematicos
