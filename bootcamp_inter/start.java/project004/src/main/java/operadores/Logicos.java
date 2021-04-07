@@ -36,4 +36,7 @@ public class Logicos {
         System.out.println("verificando numero...");
         return numero > 10;
     }
+    private static boolean verificaComFiltro(Integer numero) {
+        return false;
+    }
 }
