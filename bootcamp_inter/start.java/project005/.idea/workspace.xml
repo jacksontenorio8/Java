@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c396e9d5-91ed-40a7-abd8-84ce70b5ccad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/ExemploInstanciaObbjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/ExemploMetodos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project005.iml" afterDir="false" />
-    </list>
+    <list default="true" id="c396e9d5-91ed-40a7-abd8-84ce70b5ccad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
