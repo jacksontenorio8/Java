@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExemploPessoa",
+            "request": "launch",
+            "mainClass": "ExemploPessoa",
+            "projectName": "Java_e3c0f834"
+        },
+        {
+            "type": "java",
             "name": "Launch ResolucaoDoSistema",
             "request": "launch",
             "mainClass": "ResolucaoDoSistema",
