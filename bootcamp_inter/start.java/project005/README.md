@@ -4,7 +4,7 @@
 
 - IntelliJ 2020.1
 - Java 11
-- Maven
+- Maven 4.0.0
 
 ## Basic Java course - OO
 
