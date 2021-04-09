@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c396e9d5-91ed-40a7-abd8-84ce70b5ccad" name="Default Changelist" comment="" />
+    <list default="true" id="f5e049ce-ccc2-4fa6-ab88-8cc2c0d2b89c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/oo/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/oo/part01/paradigma/exemplo001/ExemploMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/aulas/oo/part01/paradigma/exemplo001/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/ExemploInstanciaObjeto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/ExemploMetodos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/part01/paradigma/exemplo001/Pessoa.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,28 +29,59 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1qtuLJlQkjzSHHmrTzSJ3KWNXjq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1qwJUPJYT8qSyvdBa8BhmSSlwS1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RunManager" selected="Application.ExemploInstanciaObjeto">
+    <configuration name="ExemploInstanciaObjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.oo.part01.paradigma.exemplo001.ExemploInstanciaObjeto" />
+      <module name="Project005" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.oo.part01.paradigma.exemplo001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exemploInstanciaObjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aulas.OO.part01.paradigma.exemplo001.exemploInstanciaObjeto" />
+      <module name="Project005" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aulas.oo.part01.paradigma.exemplo001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExemploInstanciaObjeto" />
+        <item itemvalue="Application.exemploInstanciaObjeto" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c396e9d5-91ed-40a7-abd8-84ce70b5ccad" name="Default Changelist" comment="" />
-      <created>1617911151251</created>
+      <changelist id="f5e049ce-ccc2-4fa6-ab88-8cc2c0d2b89c" name="Default Changelist" comment="" />
+      <created>1617984745028</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1617911151251</updated>
+      <updated>1617984745028</updated>
     </task>
     <servers />
   </component>
@@ -55,8 +95,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
