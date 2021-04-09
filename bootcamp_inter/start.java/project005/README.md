@@ -2,7 +2,7 @@
 
 ## Settings
 
-- IntelliJ 2020.1
+- IntelliJ 2020.3.3
 - Java 11
 - Maven 4.0.0
 
