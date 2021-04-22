@@ -6,3 +6,5 @@ DadosPessoais.java
  DadosPessoais
 DadosDoTrabalhador.java
  DadosDoTrabalhador
+Operadores.java
+ Operadores
