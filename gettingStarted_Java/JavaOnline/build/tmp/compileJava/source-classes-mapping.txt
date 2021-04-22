@@ -1,10 +1,12 @@
-OlaMundo.java
- OlaMundo
 ImprimindoVariaveis.java
  ImprimindoVariaveis
-DadosPessoais.java
- DadosPessoais
 DadosDoTrabalhador.java
  DadosDoTrabalhador
+DadosPessoais.java
+ DadosPessoais
+Divisao.java
+ Divisao
+OlaMundo.java
+ OlaMundo
 Operadores.java
  Operadores

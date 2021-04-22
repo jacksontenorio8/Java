@@ -9,5 +9,5 @@ public class Operadores {
         System.out.println("O valor da some é: "+soma);
 
     }
-    
+
 }
