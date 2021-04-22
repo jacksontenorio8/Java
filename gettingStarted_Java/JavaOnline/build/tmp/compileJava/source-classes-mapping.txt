@@ -4,3 +4,5 @@ ImprimindoVariaveis.java
  ImprimindoVariaveis
 DadosPessoais.java
  DadosPessoais
+DadosDoTrabalhador.java
+ DadosDoTrabalhador
