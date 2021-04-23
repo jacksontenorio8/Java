@@ -2,11 +2,13 @@ public class Operadores {
 
     public static void main(String[] args){
 
-        int numero1 = 70;
-        int numero2 = 30;
-        int soma = numero1 + numero2;
-
-        System.out.println("O valor da some é: "+soma);
+        int numeroInteiro = 20;
+        long numeroLong = 200000L;
+        double numeroDouble = 10d;
+        //float numeroFloat = (Float) numeroDouble;
+        int resto = 20%2;
+        System.out.println("Resto da divisão: "+resto);
+        System.out.print(numeroDouble);
 
     }
 

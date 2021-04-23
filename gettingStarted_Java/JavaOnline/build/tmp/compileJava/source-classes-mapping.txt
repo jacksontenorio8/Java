@@ -10,3 +10,5 @@ OlaMundo.java
  OlaMundo
 Operadores.java
  Operadores
+OperadoresDeComparacao.java
+ OperadoresDeComparacao
