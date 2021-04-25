@@ -12,3 +12,5 @@ Operadores.java
  Operadores
 OperadoresDeComparacao.java
  OperadoresDeComparacao
+OperadoresLogicos.java
+ OperadoresLogicos

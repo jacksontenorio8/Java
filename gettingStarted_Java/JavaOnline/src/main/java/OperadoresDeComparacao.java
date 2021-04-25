@@ -7,5 +7,7 @@ public class OperadoresDeComparacao {
 
         System.out.println(dezMaiorQueVinte);
         System.out.println(dezMenorIgualVinte);
+        System.out.println(5 == 5);
+        System.out.println(5 != 5);
     }
 }
