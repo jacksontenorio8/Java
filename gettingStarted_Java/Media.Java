@@ -1,12 +1,15 @@
+import java.util.Scanner;
+
 public class Media {
 
     public static void main(String[] args){
 
-        int n1 = 7;
-        int n2 = 8;
-        int n3 = 3;
-        int n4 = 5;
-        float media = (n1 + n2 + n3 + n4)/2;
+        int nota1 = 7;
+        int nota2 = 8;
+        int nota3 = 3;
+        int nota4 = 5;
+        int soma = nota1 + nota2 + nota3 + nota4;
+        double media = (soma) / 2;
 
         System.out.println("A média é igual a " + media);
     }
