@@ -1,9 +1,11 @@
 package br.com.digital.innovation.one.FatorialRecursivo;
 
+import java.util.function.UnaryOperator;
+
 public class Aula {
     public static void main(String[] args) {
-        int valor = 10; //instrução
-        int resultado = valor * 3; //instrução
-        System.out.println("O resultado é: "+resultado); //instrução
+        UnaryOperator<Integer> calcularValorVezesTrinta = valor -> valor*3;
+        int valor = 10;
+        System.out.println("O resulatado é: "+calcularValorVezesTrinta.apply(10));
     }
 }
