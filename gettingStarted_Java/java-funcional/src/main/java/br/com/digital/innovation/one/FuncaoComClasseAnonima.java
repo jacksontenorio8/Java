@@ -1,4 +1,4 @@
-package br.com.digital.innovation.one.FatorialRecursivo;
+package br.com.digital.innovation.one;
 
 public class FuncaoComClasseAnonima {
     public static void main(String[] args) {
