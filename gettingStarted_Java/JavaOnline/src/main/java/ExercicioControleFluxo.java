@@ -2,17 +2,17 @@ public class ExercicioControleFluxo {
     public static void main(String[] args) {
 
         double salario = 3200;
-        String imposto;
+        double totalImposto = 0;
 
         if(salario < 1000){
-            imposto = "5%";
+            totalImposto = salario * 0.05;
         }else if(salario >= 1000 && salario < 2000){
-            imposto = "10%";
+            totalImposto = salario * 0.1;
         }else if(salario >= 2000 && salario < 4000){
-            imposto = "15%";
+            totalImposto = salario * 0.15;
         }else{
-            imposto = "20%";
+            totalImposto = salario * 0.2;
         }
-        System.out.println("O imposto que incide sobre o salário é : "+imposto);
+        System.out.println("O imposto que incide sobre o salário é : "+totalImposto);
     }
 }
