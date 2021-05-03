@@ -32,3 +32,7 @@ ExercicioControleFluxo3.java
  ExercicioControleFluxo3
 NumerosImpares.java
  NumerosImpares
+ControleFluxo5.java
+ ControleFluxo5
+ControleFluxo6.java
+ ControleFluxo6
