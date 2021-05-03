@@ -28,3 +28,7 @@ ExercicioControleFluxo2.java
  ExercicioControleFluxo2
 ControleFluxo4.java
  ControleFluxo4
+ExercicioControleFluxo3.java
+ ExercicioControleFluxo3
+NumerosImpares.java
+ NumerosImpares
