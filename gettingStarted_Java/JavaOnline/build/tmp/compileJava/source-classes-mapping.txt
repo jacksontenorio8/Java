@@ -40,3 +40,5 @@ Arrays1.java
  Arrays1
 Arrays2.java
  Arrays2
+pratica/AmigosDeInfancia.java
+ pratica.AmigosDeInfancia
