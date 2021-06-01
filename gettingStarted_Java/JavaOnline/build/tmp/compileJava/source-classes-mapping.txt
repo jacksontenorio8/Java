@@ -42,3 +42,7 @@ Arrays2.java
  Arrays2
 pratica/AmigosDeInfancia.java
  pratica.AmigosDeInfancia
+pratica/Pesos.java
+ pratica.Pesos
+pratica/CoresEspectroMagnetico.java
+ pratica.CoresEspectroMagnetico
