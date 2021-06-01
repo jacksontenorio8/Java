@@ -46,3 +46,5 @@ pratica/Pesos.java
  pratica.Pesos
 pratica/CoresEspectroMagnetico.java
  pratica.CoresEspectroMagnetico
+Arrays3.java
+ Arrays3
