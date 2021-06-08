@@ -48,3 +48,5 @@ pratica/CoresEspectroMagnetico.java
  pratica.CoresEspectroMagnetico
 Arrays3.java
  Arrays3
+Arrays4.java
+ Arrays4
