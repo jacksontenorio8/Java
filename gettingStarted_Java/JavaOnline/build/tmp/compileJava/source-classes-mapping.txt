@@ -1,52 +1,54 @@
-ControleFluxo3.java
- ControleFluxo3
+NumerosImpares.java
+ NumerosImpares
+Arrays2.java
+ Arrays2
 ImprimindoVariaveis.java
  ImprimindoVariaveis
 Operadores.java
  Operadores
-OperadoresLogicos.java
- OperadoresLogicos
-ExercicioControleFluxo.java
- ExercicioControleFluxo
 ControleFluxo1.java
  ControleFluxo1
-OperadoresDeComparacao.java
- OperadoresDeComparacao
-ControleFluxo2.java
- ControleFluxo2
+Arrays4.java
+ Arrays4
+ExercicioControleFluxo2.java
+ ExercicioControleFluxo2
 DadosDoTrabalhador.java
  DadosDoTrabalhador
+pratica/Pesos.java
+ pratica.Pesos
 DadosPessoais.java
  DadosPessoais
 Divisao.java
  Divisao
-OperadoresDeAtriuicao.java
- OperadoresDeAtriuicao
-OlaMundo.java
- OlaMundo
-ExercicioControleFluxo2.java
- ExercicioControleFluxo2
 ControleFluxo4.java
  ControleFluxo4
-ExercicioControleFluxo3.java
- ExercicioControleFluxo3
-NumerosImpares.java
- NumerosImpares
-ControleFluxo5.java
- ControleFluxo5
-ControleFluxo6.java
- ControleFluxo6
 Arrays1.java
  Arrays1
-Arrays2.java
- Arrays2
+ControleFluxo2.java
+ ControleFluxo2
 pratica/AmigosDeInfancia.java
  pratica.AmigosDeInfancia
-pratica/Pesos.java
- pratica.Pesos
-pratica/CoresEspectroMagnetico.java
- pratica.CoresEspectroMagnetico
+ControleFluxo3.java
+ ControleFluxo3
 Arrays3.java
  Arrays3
-Arrays4.java
- Arrays4
+ControleFluxo6.java
+ ControleFluxo6
+OperadoresLogicos.java
+ OperadoresLogicos
+ExercicioControleFluxo.java
+ ExercicioControleFluxo
+OperadoresDeComparacao.java
+ OperadoresDeComparacao
+pratica/CoresEspectroMagnetico.java
+ pratica.CoresEspectroMagnetico
+OperadoresDeAtriuicao.java
+ OperadoresDeAtriuicao
+ExercicioControleFluxo3.java
+ ExercicioControleFluxo3
+OlaMundo.java
+ OlaMundo
+ControleFluxo5.java
+ ControleFluxo5
+pratica/Arrays5.java
+ pratica.Arrays5
