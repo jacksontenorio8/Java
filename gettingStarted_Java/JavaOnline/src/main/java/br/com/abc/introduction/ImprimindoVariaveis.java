@@ -1,3 +1,5 @@
+package br.com.abc.introduction;
+
 public class ImprimindoVariaveis {
 
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package pratica;
+package br.com.abc.introduction;
 
 public class AmigosDeInfancia {
     public static void main(String[] args) {

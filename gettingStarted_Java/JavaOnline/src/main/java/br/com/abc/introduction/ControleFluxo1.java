@@ -1,4 +1,4 @@
-/*
+package br.com.abc.introduction;/*
 * Se idade < 15 Categoria infantil
 * Se idade >= 15 && idade < 18 Categoria juvenil
 * Se idade >= 18 Categoria adulta

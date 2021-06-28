@@ -1,3 +1,5 @@
+package br.com.abc.introduction;
+
 public class Divisao {
     public static void main(String[] args){
         int numero1 = 7;

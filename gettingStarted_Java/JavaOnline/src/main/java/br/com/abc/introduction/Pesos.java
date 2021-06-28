@@ -1,4 +1,4 @@
-package pratica;
+package br.com.abc.introduction;
 
 public class Pesos {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package br.com.abc.introduction;
+
 /**
  * Programa que imprime os dados de um trabalhador.
  * */
