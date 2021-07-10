@@ -1,4 +1,4 @@
-package br.com.abc.introduction;
+package br.com.abc.introduction.Arrays;
 
 public class Arrays2 {
     public static void main(String[] args) {

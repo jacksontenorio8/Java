@@ -1,6 +1,8 @@
-package br.com.abc.introduction;
+package br.com.abc.introduction.Operadores;
 
-public class OperadoresDeAtriuicao {
+public class
+OperadoresDeAtriuicao {
+
     public static void main(String[] args) {
         // +=, -=, *=, /=, %=
         int salario = 1800;

@@ -1,4 +1,4 @@
-package br.com.abc.introduction;
+package br.com.abc.introduction.Operadores;
 
 public class OperadoresDeComparacao {
 
