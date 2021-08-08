@@ -1,5 +1,4 @@
 package com.example.pool.model;
-import java.util.ArrayList;
 import com.example.pool.Cliente;
 import com.example.pool.Endereco;
 
@@ -12,8 +11,8 @@ public class EntregaCartaoApp {
 
         Cliente cliente = new Cliente();
         // dados do cliente
-        
-        cliente.getEnderecos().add(endereco);
+
+        cliente.adicionaEndereço(endereco);
         System.out.println("Endereço adicionado com sucesso!");
     }
 }
