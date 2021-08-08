@@ -12,11 +12,8 @@ public class EntregaCartaoApp {
 
         Cliente cliente = new Cliente();
         // dados do cliente
-
-        if (cliente.enderecos == null){
-            cliente.enderecos = new ArrayList<Endereco>();
-        }
-        cliente.enderecos.add(endereco);
+        
+        cliente.getEnderecos().add(endereco);
         System.out.println("Endereço adicionado com sucesso!");
     }
 }

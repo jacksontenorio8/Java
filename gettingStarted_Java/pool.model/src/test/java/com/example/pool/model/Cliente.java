@@ -15,7 +15,7 @@ public class Cliente {
 
     public List<Endereco> getEnderecos() {
         if (enderecos == null){
-            
+
         }
         return enderecos;
     }
