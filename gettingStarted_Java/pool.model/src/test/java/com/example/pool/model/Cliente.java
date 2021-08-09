@@ -14,6 +14,10 @@ public class Cliente {
         if (endereco == null){
             throw new NullPointerException("Endereço não pode ser nulo.");
         }
+        if(endereco.cep == null){
+            throw new NullPointerException("CEP não pode ser nulo.");
+        }
+        getEnderecos().add(endereco);
     }
 
     public void setEnderecos(List<Endereco> enderecos){
